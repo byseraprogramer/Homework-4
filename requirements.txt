@@ -1,0 +1,11 @@
+Flask
+flask-cors
+requests
+beautifulsoup4
+pandas
+numpy
+ta
+scikit-learn
+tensorflow
+matplotlib
+keras
